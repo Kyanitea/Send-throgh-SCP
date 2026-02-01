@@ -6,3 +6,4 @@ $ python3 Transfer.py
 
 in the console
 
+I don't intend to upkeep this.
